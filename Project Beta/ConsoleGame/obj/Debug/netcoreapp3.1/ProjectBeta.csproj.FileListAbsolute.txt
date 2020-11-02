@@ -1,0 +1,4 @@
+/Users/jesselawrence/Desktop/School Work #EW/C#/Project Beta/SlimGame/obj/Debug/netcoreapp3.1/ProjectBeta.csprojAssemblyReference.cache
+/Users/jesselawrence/Desktop/School Work #EW/C#/Project Beta/SlimGame/obj/Debug/netcoreapp3.1/ProjectBeta.AssemblyInfoInputs.cache
+/Users/jesselawrence/Desktop/School Work #EW/C#/Project Beta/SlimGame/obj/Debug/netcoreapp3.1/ProjectBeta.AssemblyInfo.cs
+/Users/jesselawrence/Desktop/School Work #EW/C#/Project Beta/SlimGame/obj/Debug/netcoreapp3.1/ProjectBeta.csproj.CoreCompileInputs.cache

@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{9EB0DED0-81B7-4169-B277-46EA9C9A0A31}|Default">
+  <MonoDevelop.Ide.ItemProperties.ConsoleGame PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SlimGame/SpaceObject.cs">
+    <Files>
+      <File FileName="SlimGame/Program.cs" Line="87" Column="33" />
+      <File FileName="SlimGame/ViewClass.cs" />
+      <File FileName="SlimGame/UFOClass.cs" />
+      <File FileName="SlimGame/ModelClass.cs" />
+      <File FileName="SlimGame/PointStruct.cs" Line="1" Column="1" />
+      <File FileName="SlimGame/IdealSpaceObject.cs" Line="7" Column="6" />
+      <File FileName="SlimGame/SpaceObject.cs" Line="7" Column="27" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ConsoleGame" expanded="True">
+            <Node name="ConsoleGame" expanded="True">
+              <Node name="SpaceObject.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
